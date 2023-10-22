@@ -1,0 +1,17 @@
+Como utilizar o power BI para conectar ao banco de dados
+
+Abra o SQL Server para identificar e copiar o caminho do local onde está salvo o banco de dados.
+
+Entao abra o PowerBi, siga na opção banco de dados / Banco de dados SQL Server / Cole o endereço do banco de dados de origem na caixa Servidor 
+
+Utilizar as credenciais do proprio windows para conectar ao banco de dados com o proprio login.
+
+OK para suporte a criptografia
+
+Escolhas as tabelas com o flag e então acione o botão carregar.
+
+O carregamento do banco de dados será feito para dentro do PowerBI.
+
+Então, todas as tabelas selecionadas estão disponíveis para consumo no PowerBI.
+
+  
